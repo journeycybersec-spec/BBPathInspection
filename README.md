@@ -1,5 +1,3 @@
-python3 attack_surface_mapper.py http://localhost:3000
-
 # BBPathInspection — Attack Surface Mapper
 
 Automated reconnaissance for **any web app architecture** (SPA or classic).
